@@ -58,6 +58,15 @@ From [production/bom.csv](production/bom.csv):
 	- [production/designators.csv](production/designators.csv)
 	- [production/netlist.ipc](production/netlist.ipc)
 
+## Firmware
+
+KMK firmware for this board is included in:
+
+- [firmware/kmk/code.py](firmware/kmk/code.py)
+- [firmware/kmk/README.md](firmware/kmk/README.md)
+
+It is preconfigured for the exact matrix and encoder pins used in this PCB.
+
 ## Progress Pictures
 
 ### Research
