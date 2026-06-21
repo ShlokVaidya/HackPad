@@ -4,6 +4,14 @@ A 12-key macropad I built as my second hardware project for Stasis, designed to 
 
 Hi there, this is my fully custom keypad from scratch, and I tried to keep it clean, practical, and actually buildable.
 
+## Demo Video
+
+<video src="./HackPad.mp4" controls width="1080">
+  Your browser does not support embedded videos. You can watch the demo here: <a href="./HackPad.mp4">HackPad.mp4</a>.
+</video>
+
+[Open the demo video](./HackPad.mp4)
+
 ## Quick Project Summary
 
 - Project: 3x4 macropad + rotary encoder
@@ -116,4 +124,3 @@ Total logged so far: ~9.3h
 - Matrix labeling in schematic makes routing way less confusing.
 - Tiny mechanical details (insert depth, nut traps, plate thickness) matter a lot more than expected.
 - Silkscreen art is optional, but morale is not.
-
