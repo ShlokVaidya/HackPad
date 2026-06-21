@@ -12,6 +12,8 @@ Hi there, this is my fully custom keypad from scratch, and I tried to keep it cl
 
 [Open the demo video](./HackPad.mp4)
 
+Note: The demo vid is working but u need to download to view it as it exceeds the 100mb Github limit. 
+
 ## Quick Project Summary
 
 - Project: 3x4 macropad + rotary encoder
